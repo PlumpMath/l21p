@@ -1,4 +1,4 @@
-(defproject l21p "0.0.1"
+(defproject l21p "0.0.2"
   :description ""
   :url "https://github.com/bakyeono/l21p"
   :license {:name "GNU General Public License (version 3)"
